@@ -4,7 +4,7 @@ const nextConfig = {
     domains: ["images.unsplash.com", "plus.unsplash.com"],
   },
   env: {
-    API_URL: "https://razorpay-demo-server.onrender.com",
+    API_URL: "https://razorpay-demo-server-1.onrender.com",
   },
 };
 
